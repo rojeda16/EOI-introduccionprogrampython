@@ -1,0 +1,7 @@
+print("primero: Ir hasta la Biblioteca") 
+print("segundo: Hablar con la Bibliotecaria") 
+print("tercero: Informar cual libro quiere") 
+print("cuarto: Esperar que  encuentren  el libro que desea") 
+print("quinto: Mostrar el carnet de la Bibliotca a la Bibliotecaria") 
+print("sexto: tomar el libro") 
+print("septimo Volver a casa con el libro") 
